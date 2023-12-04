@@ -1,0 +1,26 @@
+body{
+    display: flex;
+
+}
+#main{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+button{
+    margin-inline-end: 10px;
+} 
+.clrdiv{
+    width: 300px;
+    height: 300px;
+    border: 5px  solid red;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    text-align: center;
+}
+#show{
+    margin: 40px;
+}
